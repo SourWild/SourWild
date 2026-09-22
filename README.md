@@ -6,7 +6,7 @@ Tongji Automation → NUS Robotics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SourWild&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=default"
+    src="https://github-stats-extended.vercel.app/api?username=SourWild&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=default"
     alt="SourWild's GitHub stats"
   />
 </p>
@@ -15,4 +15,3 @@ Tongji Automation → NUS Robotics
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
