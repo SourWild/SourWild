@@ -2,7 +2,7 @@
 
 Tongji Automation → NUS Robotics
 
-## 📊 GitHub Stats
+## 🤖 Code, Robots & Open Source
 
 <p align="center">
   <img
@@ -11,7 +11,7 @@ Tongji Automation → NUS Robotics
   />
 </p>
 
-## 📊 This Week I Spent My Time On
+## ⏱️ Inside My Coding Week
 
 <!--START_SECTION:waka-->
 ```text
