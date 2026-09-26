@@ -9,18 +9,18 @@ Tongji Automation → NUS Robotics
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Other                    6 hrs 15 mins      █████████████░░░░░░░░░░░░ 51.42 %
-Markdown                 3 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░ 31.07 %
-Python                   1 hr 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░ 08.58 %
-Swift                    43 mins            █░░░░░░░░░░░░░░░░░░░░░░░░ 05.98 %
-Bash                     9 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░ 01.30 %
+Markdown                 3 hrs 46 mins      ███████████░░░░░░░░░░░░░░ 43.94 %
+Other                    3 hrs 22 mins      ██████████░░░░░░░░░░░░░░░ 39.31 %
+Python                   1 hr 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░ 12.14 %
+Bash                     9 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░ 01.83 %
+YAML                     6 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░ 01.29 %
 
 🔥 Editors:
-Codex Vscode             8 hrs 46 mins      ██████████████████░░░░░░░ 72.05 %
-VS Code                  2 hrs 29 mins      █████░░░░░░░░░░░░░░░░░░░░ 20.50 %
-Claude Code              54 mins            ██░░░░░░░░░░░░░░░░░░░░░░░ 07.45 %
+Codex Vscode             5 hrs 53 mins      █████████████████░░░░░░░░ 68.49 %
+VS Code                  1 hr 48 mins       █████░░░░░░░░░░░░░░░░░░░░ 20.98 %
+Claude Code              54 mins            ███░░░░░░░░░░░░░░░░░░░░░░ 10.53 %
 
 💻 Operating System:
-Mac                      12 hrs 10 mins     █████████████████████████ 100.00 %
+Mac                      8 hrs 36 mins      █████████████████████████ 100.00 %
 ```
 <!--END_SECTION:waka-->
