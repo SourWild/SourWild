@@ -9,14 +9,14 @@ Tongji Automation → NUS Robotics
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Other                    2 hrs 5 mins       █████████████████████████ 100.00 %
+Other                    43 mins            █████████████████████████ 100.00 %
 
 🔥 Editors:
-Codex Vscode             1 hr 54 mins       ███████████████████████░░ 90.54 %
-Claude Code              11 mins            ██░░░░░░░░░░░░░░░░░░░░░░░ 09.21 %
-VS Code                  0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░░ 00.25 %
+Codex Vscode             38 mins            ██████████████████████░░░ 87.32 %
+Claude Code              5 mins             ███░░░░░░░░░░░░░░░░░░░░░░ 11.97 %
+VS Code                  0 secs             ░░░░░░░░░░░░░░░░░░░░░░░░░ 00.71 %
 
 💻 Operating System:
-Mac                      2 hrs 5 mins       █████████████████████████ 100.00 %
+Mac                      43 mins            █████████████████████████ 100.00 %
 ```
 <!--END_SECTION:waka-->
