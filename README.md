@@ -9,12 +9,15 @@ Tongji Automation → NUS Robotics
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-No activity recorded yet
+Other                    1 hr 59 mins       ███████████████░░░░░░░░░░ 60.76 %
+TeX                      53 mins            ███████░░░░░░░░░░░░░░░░░░ 27.20 %
+Markdown                 13 mins            ██░░░░░░░░░░░░░░░░░░░░░░░ 07.09 %
+Python                   9 mins             █░░░░░░░░░░░░░░░░░░░░░░░░ 04.94 %
 
 🔥 Editors:
-No activity recorded yet
+VS Code                  3 hrs 16 mins      █████████████████████████ 100.00 %
 
 💻 Operating System:
-No activity recorded yet
+Mac                      3 hrs 16 mins      █████████████████████████ 100.00 %
 ```
 <!--END_SECTION:waka-->
